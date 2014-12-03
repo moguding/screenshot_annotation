@@ -3,17 +3,17 @@ screenshot_annotation
 
 websocket server base on golang
 
-## server: 
+## Server: 
 
 * go build
 * screenshot_annotation --addr=:7788 --debug=true
 
-## test:
+## Test:
 * cd $src/test
 * go build
 * ./test
 
-## LICENSE
+## License
 
 Under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
