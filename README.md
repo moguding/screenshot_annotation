@@ -3,13 +3,13 @@ screenshot_annotation (yxw.2013.03@gmail.com)
 
 websocket server base on golang
 
-server:
-	go build
-	screenshot_annotation --addr=:7788 --debug=true
+server: </br></br>
+	go build </br>
+	screenshot_annotation --addr=:7788 --debug=true </br></br></br></br>
 
-test:
-	cd $src/test
-	go build
-	./test
+test:</br></br>
+	cd $src/test</br>
+	go build</br>
+	./test</br>
 
 
